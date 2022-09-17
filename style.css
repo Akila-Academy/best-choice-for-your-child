@@ -208,18 +208,18 @@
 
 
 .slideBottom{
-    animation: slideBottom 2s cubic-bezier(0.075, 0.82, 0.165, 1);    
+    animation: slideBottom 1s cubic-bezier(0.075, 0.82, 0.165, 1);    
 
 }
 
 .slideTop{
-    animation: slideTop 2s cubic-bezier(0.165, 0.84, 0.44, 1);    
+    animation: slideTop 1s cubic-bezier(0.165, 0.84, 0.44, 1);    
     z-index: 15;
 
 }
 
 .slideLeft{
-    animation: slideLeft 2s cubic-bezier(0.075, 0.82, 0.165, 1);    
+    animation: slideLeft 1s cubic-bezier(0.075, 0.82, 0.165, 1);    
 
 }
 
