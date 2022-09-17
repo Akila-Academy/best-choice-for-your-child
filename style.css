@@ -198,28 +198,28 @@
     cursor: default;
  }
 .slideRight{ 
-    animation: slideRight 8s cubic-bezier(0.075, 0.82, 0.165, 1);    
+    animation: slideRight 2s cubic-bezier(0.075, 0.82, 0.165, 1);    
 }
 
 .slideRight-appear{ 
-    animation: slideRight-appear 8s cubic-bezier(0.075, 0.82, 0.165, 1);    
+    animation: slideRight-appear 2s cubic-bezier(0.075, 0.82, 0.165, 1);    
 }
 
 
 
 .slideBottom{
-    animation: slideBottom 6s cubic-bezier(0.075, 0.82, 0.165, 1);    
+    animation: slideBottom 2s cubic-bezier(0.075, 0.82, 0.165, 1);    
 
 }
 
 .slideTop{
-    animation: slideTop 6s cubic-bezier(0.165, 0.84, 0.44, 1);    
+    animation: slideTop 2s cubic-bezier(0.165, 0.84, 0.44, 1);    
     z-index: 15;
 
 }
 
 .slideLeft{
-    animation: slideLeft 8s cubic-bezier(0.075, 0.82, 0.165, 1);    
+    animation: slideLeft 2s cubic-bezier(0.075, 0.82, 0.165, 1);    
 
 }
 
